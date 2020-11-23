@@ -8,4 +8,4 @@ This repo conatins:
 
 -Parallel Quick Reduct using Multiprocessing library in Python
 
--Parallel Quick Reduct using BSP paradigm and MulticoreBSP library in C++
+-(An incomplete) Parallel Quick Reduct using BSP paradigm and MulticoreBSP library in C++
